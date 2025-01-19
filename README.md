@@ -5,4 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
-Created by Pablo Wolm - 2025
+Created by Pablo c. Wolmy - 2025
